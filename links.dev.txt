@@ -1,3 +1,0 @@
-maps https://yandex.ru/maps/
-music https://music.yandex.ru/
-market https://market.yandex.ru/
